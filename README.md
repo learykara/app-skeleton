@@ -1,3 +1,5 @@
 # app-skeleton
 
-app skeleton using node/express, webpack and react
+Different app skeletons can be found on different branches:
+- `feature/react`: react, express, webpack
+- `feature/vue`: vue, express, webpack
