@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build:dev": "webpack --mode=development --watch",
+    "serve": "nodemon",
     "test": "echo \"No tests.\" && exit 1"
   },
   "author": "",
